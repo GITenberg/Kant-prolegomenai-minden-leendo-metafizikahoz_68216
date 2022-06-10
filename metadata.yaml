@@ -5,6 +5,9 @@ contributor:
     agent_name: Alexander, Bernát
     gutenberg_agent_id: '54657'
     url: http://www.gutenberg.org/2009/agents/54657
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -19,6 +22,8 @@ creator:
     - https://de.wikipedia.org/wiki/Immanuel_Kant
     - https://en.wikipedia.org/wiki/Immanuel_Kant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68216#Kant-prolegomenai-minden-leendo-metafizikahoz
 gutenberg_issued: '2022-05-31'
 identifiers:
   gutenberg: '68216'
